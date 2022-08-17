@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88">
+  <g id="ham_burger" transform="translate(-1705 -74)">
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="44" cy="44" r="44" transform="translate(1705 74)" fill="#fff"/>
+    <g id="ham_menu" transform="translate(88)">
+      <line id="Line_1" data-name="Line 1" x2="36.5" transform="translate(1642.5 109.5)" fill="none" stroke="#000" stroke-width="3"/>
+      <line id="Line_2" data-name="Line 2" x2="36.5" transform="translate(1642.5 129)" fill="none" stroke="#000" stroke-width="3"/>
+      <path id="Path_1" data-name="Path 1" d="M0,0H20.07" transform="translate(1642.5 119.64)" fill="none" stroke="#000" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/admin/dashboard",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Products",
+        "route": "/admin/products",
+        "icon": "bx bx-cart"
+    },
+    {
+        "display_name": "Meeting",
+        "route": "/admin/meeting",
+        "icon": "bx bxs-video"
+    },
+    {
+        "display_name": "Chat",
+        "route": "/admin/chat",
+        "icon": "bx bx-message-rounded-dots"
+    },
+    {
+        "display_name":"My Profile",
+        "route": "/admin/profile",
+        "icon": "bx bxs-user-detail"
+    },
+    {
+        "display_name": "Signout",
+        "route": "/signout",
+        "icon": "bx bx-log-out"
+    }
+]

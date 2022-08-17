@@ -1,0 +1,32 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/customer/dashboard",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Orders",
+        "route": "/customer/orders",
+        "icon": "bx bx-store-alt"
+    },
+    {
+        "display_name": "meeting",
+        "route": "/customer/meeting",
+        "icon": "bx bxs-video"
+    },
+    {
+        "display_name": "Chat",
+        "route": "/customer/chat",
+        "icon": "bx bx-message-rounded-dots"
+    },
+    {
+        "display_name": "Symptom Checker",
+        "route": "/customer/checker",
+        "icon": "bx bx-gift"
+    },
+    {
+        "display_name": "Signout",
+        "route": "/signout",
+        "icon": "bx bx-log-out"
+    }
+]

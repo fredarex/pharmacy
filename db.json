@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "32,feb red cross",
+      "day": "13,march",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "silicon valley appointment",
+      "day": "21th feb",
+      "reminder": false
+    },
+    {
+      "text": "laundreis",
+      "day": "21,april",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
