@@ -139,8 +139,7 @@ function AppointmentModal(props) {
                             disabled={disabledDays.length > 0 && disabledDays}
                             mode="single"
                         /> 
-                    </div>
-                    
+                    </div>    
                 </div>
                 }
                 {
