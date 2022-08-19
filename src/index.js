@@ -3,12 +3,10 @@ import ReactDOM from "react-dom";
 import { Provider } from "react-redux";
 import './fonts/whitefeather/Whitefeather.ttf';
 import './fonts/junitta/Junitta-BW55G.otf';
-import './fonts/antipasto/AntipastoPro_trial.ttf';
 import './fonts/moglan/Moglan_DEMO.ttf';
 import './fonts/rouge-script/RougeScript-Regular.ttf';
 import './fonts/vonique-64/Vonique64.ttf';
 import './fonts/elsie-swash-caps/ElsieSwashCaps-Regular.ttf';
-import './fonts/glamor/Glamor - TTF/Glamor-Regular.ttf';
 import './fonts/unique/Unique.ttf';
 import './fonts/grotesk/Founders_Grotesque.ttf';
 

@@ -40,13 +40,11 @@ import asthma_drug from '../assets/asthma.png';
 import chest_eeze from '../assets/chest-eeze.png';
 import my_vitamin from '../assets/my_vitamin.png';
 import d3 from '../assets/d3.png';
-import immunity from '../assets/immunity.png';
 import virtual_doc from '../assets/virtual-doc.svg';
 import virtual_doc_profile from '../assets/virtual_doc_profile.svg';
 export {
     virtual_doc_profile,
     virtual_doc,
-    immunity,
     d3,
     my_vitamin,
     asthma_drug,

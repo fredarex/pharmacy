@@ -45,12 +45,6 @@
 
 
 
-@font-face {
-    font-family: "Glamor";
-    src: local("Glamor"),
-     url("./fonts/glamor/Glamor - TTF/Glamor-Regular.ttf") format("truetype");
-    font-weight: bold;
-    }
 
 @font-face {
     font-family: "Elsie Swash Caps";
@@ -73,12 +67,6 @@
     font-weight: bold;
     }
 
-    @font-face {
-        font-family: "Antipasto Pro";
-        src: local("Antipasto Pro"),
-         url("./fonts/antipasto/AntipastoPro_trial.ttf") format("truetype");
-        font-weight: bold;
-        }
 
         @font-face {
             font-family: "MoglanDemo";
