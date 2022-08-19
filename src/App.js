@@ -7,13 +7,10 @@ import Home from './pages/Home/Home';
 import Shop from './pages/Shop/Shop';
 import Detail from './pages/Detail/Detail';
 import Cart from './pages/Cart/Cart';
-import Dashboard from './pages/Dashboard/Dashboard';
 //hoc
 import WithAuth from './hoc/withAuth';
 import { useDispatch } from 'react-redux';
 import { checkUserSession } from './redux/User/user.actions';
-import Admin from './pages/Admin';
-import AdminLayout from './layouts/AdminLayout';
 import Doctors from './pages/Doctors/Doctors';
 import WithAdminAuth from './hoc/withAdminAuth';
 import MenuNav from './components/MenuNav/MenuNav';
