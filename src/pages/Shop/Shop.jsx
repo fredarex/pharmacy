@@ -153,7 +153,7 @@ function Shop() {
     
     // // after everything is set up, refresh() ScrollTrigger and update LocomotiveScroll 
     // // Because padding may have been added for pinning, etc.
-    // ScrollTrigger.refresh();
+   ScrollTrigger.refresh();
     
     // return () => {
     //   ScrollTrigger.removeEventListener("refresh",shopLocoUpdate);
